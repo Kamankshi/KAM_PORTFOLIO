@@ -11,13 +11,16 @@
     "eject": "react-scripts eject",
     "lint": "eslint src"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "keywords": [
     "react",
     "portfolio",
     "website",
     "personal"
   ],
-  "author": "Your Name",
+  "author": "Kamankshi",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
